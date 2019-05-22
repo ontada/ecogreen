@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'SenFont';
+  src: url('https://cdn.rawgit.com/hongblogger/bloghong/master/sen_gdi.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.rawgit.com/hongblogger/bloghong/master/sen_gdi%20(1).eot') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.rawgit.com/hongblogger/bloghong/master/sen_gdi.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://cdn.rawgit.com/hongblogger/bloghong/master/sen_gdi.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('https://cdn.rawgit.com/hongblogger/bloghong/master/banner.jpg') format('svg'); /* Legacy iOS */
+}
+@font-face {
+  font-family: 'VNFFuturaRegular';
+  src: url('https://cdn.rawgit.com/hongblogger/bloghong/master/VNFFuturaRegular%20(1).eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.rawgit.com/hongblogger/bloghong/master/VNFFuturaRegular.eot') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.rawgit.com/hongblogger/bloghong/master/VNFFuturaRegular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('https://cdn.rawgit.com/hongblogger/bloghong/master/VNFFuturaRegular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('https://cdn.rawgit.com/hongblogger/bloghong/master/banner.jpg') format('svg'); /* Legacy iOS */
+}
